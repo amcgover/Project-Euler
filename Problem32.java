@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 
-public class Problem32 {//45228
-    public static final int UPPER_LIMIT = 9999;
+public class Problem32 {
 	public static void main(String[] args) {
 		long sum = 0;
 		ArrayList<Integer> seen = new ArrayList<Integer>();
